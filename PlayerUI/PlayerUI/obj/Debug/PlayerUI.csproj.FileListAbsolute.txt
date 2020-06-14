@@ -1,0 +1,26 @@
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csprojResolveAssemblyReference.cache
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.Cache
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\bin\Debug\PlayerUI.pdb
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+G:\VS Project\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.exe
+D:\RJ Code Advance\Test Projects\PlayerUI\PlayerUI\obj\Debug\PlayerUI.pdb
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\bin\Debug\PlayerUI.exe.config
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\bin\Debug\PlayerUI.exe
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\bin\Debug\PlayerUI.pdb
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\obj\Debug\PlayerUI.csprojAssemblyReference.cache
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\obj\Debug\PlayerUI.Form2.resources
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\obj\Debug\PlayerUI.Form3.resources
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\obj\Debug\PlayerUI.csproj.GenerateResource.cache
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\obj\Debug\PlayerUI.csproj.CoreCompileInputs.cache
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\obj\Debug\PlayerUI.exe
+D:\git\Modern-Media-Player-UI-C-Sharp\PlayerUI\obj\Debug\PlayerUI.pdb
